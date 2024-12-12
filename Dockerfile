@@ -1,6 +1,6 @@
 # Use an official OpenJDK runtime as a parent image
 
-FROM openjdk: 11-jdk-slim
+FROM openjdk: "C:\Users\nandh\Downloads\jdk-23_windows-x64_bin (1).msi"
 
 # Set the working directory inside the container
 
